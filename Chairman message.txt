@@ -1,0 +1,6 @@
+<html><head><title>CHAIRMAN'S MESSAGE</title>
+<body>
+<img src="C:/Users/aditya/Desktop/charimen message.PNG">
+<img src="C:/Users/aditya/Desktop/Capturead.PNG">
+</body>
+</html>

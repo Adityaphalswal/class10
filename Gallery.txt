@@ -1,0 +1,8 @@
+<html><head> <title>Gllery</title>
+<body bgcolor= " light green ">
+<h1>Interhouse kho kho
+<img src="C:/Users/aditya/Desktop/inter house kho kho.PNG"><br><br>
+<img src="C:/Users/aditya/Desktop/shavoday kho kho.PNG"><br><br>
+<img src="C:/Users/aditya/Desktop/brilliant student.PNG"></h1>
+</body>
+</html>
